@@ -4,7 +4,7 @@
     //$username = strtolower($username); // for to mamke string lower case
     //$username = strtoupper($username);// for to mamke string upperr case
     //$username = trim($username); //used for to remove the white space from string
-    //$username = str_pad($username,20,"😈"); // where 20 is size of string and "0" will string last remaining space
+    //$username = str_pad($username,20,"/"); // where 20 is size of string and "0" will string last remaining space
                                         // it will give output like this   ==> Parth Is Live0000000
     //$phone = str_replace("-","",$phone); // used for to replace the value from another value
     //$username=strrev($username); //for reverse string
